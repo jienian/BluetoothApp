@@ -1,5 +1,5 @@
 # 蓝牙发射App
-## 2024/3/23-3/26 Develop Cars BluetoothApp
+## 2024/3/23 Develop Cars BluetoothApp
 ### 主效果图
 ![HomeBox-bluetooth](https://github.com/jienian/BluetoothApp/assets/45189482/e52fb3b3-4de6-4ff2-98fa-c600731b13f2)
 ### 1.介绍蓝牙发射 支持请求获取蓝牙设备
@@ -15,4 +15,4 @@
 ### 2 车机效果
 ![bluetooth_motuo2](https://github.com/jienian/BluetoothApp/assets/45189482/bb8585e2-b4cd-41aa-a990-f1c5fe6aad0a)
 ![bluetooth_motuo](https://github.com/jienian/BluetoothApp/assets/45189482/550c84f2-ac7c-408f-bfe1-e22fc8d14f00)
-
+### 7.9 开发指定os文件升级的功能、升级模式和蓝牙模式和获取版本的功能 
